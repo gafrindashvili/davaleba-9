@@ -1,0 +1,25 @@
+@media screen and (max-width: 1000px) {
+  nav {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1375px) {
+  .card {
+    width: 330px;
+  }
+
+  .right {
+    justify-content: space-around;
+  }
+}
+
+@media screen and (max-width: 1224px) {
+  .card {
+    width: 420px;
+  }
+
+  .right {
+    justify-content: center;
+  }
+}
